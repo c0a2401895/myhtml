@@ -5,9 +5,12 @@ html{
 h1{
     font-size:2rem;
     text-align: center;
-    background-color;red
+    background-color;red;
 }
 h2{
     font-size:1.5rem;
-    color;blue
+    color;blue;
+}
+body{
+	background-image;red;
 }
